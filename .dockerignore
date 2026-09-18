@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+tests/
+BUP_CSE_FEST_2026_Preli_Public_Sample_Cases.json

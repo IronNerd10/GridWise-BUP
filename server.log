@@ -1,0 +1,10 @@
+INFO:     Started server process [5423]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     103.221.254.60:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53420 - "POST /optimize-energy HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:53427 - "POST /optimize-energy HTTP/1.1" 400 Bad Request
+  note[1]: llm
+  note[0]: llm
+INFO:     127.0.0.1:53431 - "POST /optimize-energy HTTP/1.1" 200 OK
